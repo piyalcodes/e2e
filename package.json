@@ -1,0 +1,17 @@
+{
+  "name": "selenium-js-mocha",
+  "version": "1.0.0",
+  "description": "Testing ",
+  "main": "test.js",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3",
+    "selenium-webdriver": "^2.53.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Piyal Darshana",
+  "license": "ISC"
+}
